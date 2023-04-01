@@ -1,11 +1,9 @@
 import React from 'react'
 
-export const Footer = () =>{
+export default function Footer() {
   return (
     <div>
-      To do list
+      footer
     </div>
   )
 }
-
-
